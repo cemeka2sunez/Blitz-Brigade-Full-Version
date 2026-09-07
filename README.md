@@ -238,3 +238,6 @@ This repository serves as the official landing page for Blitz Brigade. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Blitz Brigade today!**
+
+---
+**Last updated:** 2026-09-07 20:14:13 UTC
